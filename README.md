@@ -5,26 +5,26 @@ I’m a beginner React developer building small projects to improve my skills in
 
 💻 Projects
 
-Counter App
+  Counter App
 
-Todo List
+  Todo List
 
-Stopwatch
+  Stopwatch
 
-Fitness App (In Progress) – Exploring React Native and mobile app development
+  Fitness App (In Progress) – Exploring React Native and mobile app development
 
 🛠️ Skills Practiced
 
-React (components, props, state, hooks)
+  React (components, props, state, hooks)
 
-JavaScript
+  JavaScript
 
-React Native (currently learning for mobile apps)
+  React Native (currently learning for mobile apps)
 
 🌱 Goals
 
-Deepen my React skills and learn advanced patterns
+  Deepen my React skills and learn advanced patterns
 
-Learn React Native to build mobile apps
+  Learn React Native to build mobile apps
 
-Build a strong portfolio for front-end and mobile development
+  Build a strong portfolio for front-end and mobile development
